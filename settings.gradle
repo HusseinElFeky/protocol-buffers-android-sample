@@ -1,0 +1,3 @@
+rootProject.name = "Protocol Buffers"
+include ':app'
+include ':protobuf'
